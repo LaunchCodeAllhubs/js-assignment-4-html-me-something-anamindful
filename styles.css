@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+#mainHeading {
+    color: red;
+    padding: 20px;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+    text-align: center;
+}
+
+#testP {
+    color: green;
+    text-align: center;
+    padding: 15px;
+}
+
+body {
+    display: block;
+    background-color: rgb(246, 240, 234);
+    width: 450px;
+    margin: 8px;
+}
+
+img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
