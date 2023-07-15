@@ -16,6 +16,7 @@ h5 {
 #testP {
     color: green;
     text-align: center;
+    padding: 15px;
 }
 
 body {
@@ -25,19 +26,7 @@ body {
     margin: 8px;
 }
 
-.content{
-    width: 100%;
-    max-width: 500px;
-    margin: auto;
-}
-
 img {
     padding-top: 10px;
     padding-bottom: 10px;
-}
-
-article {
-    text-align: center;
-    color: rgb(115, 173, 190);
-    padding: 15px;
 }
